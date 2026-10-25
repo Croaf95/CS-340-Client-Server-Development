@@ -1,4 +1,4 @@
-CS 340 Portfolio Reflection
+##CS 340 Portfolio Reflection
 How do you write programs that are maintainable, readable, and adaptable?
 
 I write maintainable, readable, and adaptable programs by focusing on modular design, clear organization, and thorough documentation. In Project One, I developed a CRUD Python module that separated database operations from the rest of the application. This approach allowed me to reuse the same functionality when building the dashboard in Project Two instead of rewriting database code. By creating a dedicated module, I was able to keep my code organized, easier to debug, and simpler to maintain. If a database operation needed to be updated, I only had to make changes in one location.
